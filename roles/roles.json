@@ -29,12 +29,26 @@
     {
       "github": "rihenna-bitlab",
       "roles": [
+        "admin"
+      ],
+      "expiresAt": null
+    },
+     {
+      "github": "chinchiuping2",
+      "roles": [
         "editor"
       ],
       "expiresAt": null
     },
     {
-      "github": "chinchiuping2",
+      "github": "myrole0689-netizen",
+      "roles": [
+        "editor"
+      ],
+      "expiresAt": null
+    },
+    {
+      "github": "abilali2601-ctrl",
       "roles": [
         "admin"
       ],
